@@ -23,7 +23,7 @@ I love building modern, impactful web applications and solving real-world proble
 ## 📌 Featured Projects
 
 - 🎓 [**DevPath**](https://github.com/ibgdev/devpath) – A platform for online learning and training resources.
-- 💼 [**TuniJobs**](https://github.com/ibgdev/tunijobs) – A modern job platform built with Symfony 6 + TailwindCSS.
+- 💼 [**TuniJobs**](https://github.com/ibgdev/tunijobs) – A modern job platform built with Symfony.
 - 🧑‍🏫 [**AbsencesPro**](https://github.com/ibgdev/abpro) – A Company absence management system for employees and administrators.
 - 🎟️ [**Event Reservation**](https://github.com/ibgdev/event) – A web platform to manage and book event attendance.
 
