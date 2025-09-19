@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Ibrahim – aka IBGDEV
+# 👋 Hey, I'm Ibrahim
 
 Welcome to my GitHub! I'm a passionate full-stack web developer from Tunisia 🇹🇳  
 I love building modern, impactful web applications and solving real-world problems through clean, efficient code.
