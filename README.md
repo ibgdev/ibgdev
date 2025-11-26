@@ -73,12 +73,12 @@ A full web app for booking & managing event attendance.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibgdev&theme=radical" width="60%">
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=ibgdev&theme=radical)
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ibgdev&show_icons=true&theme=radical" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibgdev&layout=compact&theme=radical" width="48%">
+  ![Ibrahim's GitHub stats](https://github-readme-stats-godkingjay.vercel.app/api?username=ibgdev&show_icons=true&theme=radical)
+  ![Top Languages](https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=ibgdev&layout=compact&theme=radical)
 </p>
 
 ---
