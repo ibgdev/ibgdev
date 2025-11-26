@@ -73,12 +73,12 @@ A full web app for booking & managing event attendance.
 ## 📊 GitHub Stats
 
 <p align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=ibgdev&theme=radical)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibgdev&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  [![Ibrahim's GitHub stats](https://github-readme-stats-godkingjay.vercel.app/api?username=ibgdev&show_icons=true&theme=radical)
-  [![Top Languages](https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=ibgdev&layout=compact&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api?username=ibgdev&show_icons=true&theme=radical" alt="Ibrahim's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibgdev&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -96,5 +96,3 @@ A full web app for booking & managing event attendance.
 ## ✨ Quote I Live By
 
 > *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House  
-
----
